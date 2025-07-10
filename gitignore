@@ -1,0 +1,23 @@
+
+# RStudio-specific files
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS metadata
+.DS_Store
+
+# Data science outputs
+*.rds
+*.rda
+*.RData
+*.sav
+*.log
+
+# Optional build artifacts or export files
+*.html
+*.pdf
+*.docx
+*.xlsx
