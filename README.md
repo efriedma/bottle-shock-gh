@@ -94,7 +94,6 @@ www.linkedin.com/in/efrie
 ## Future Enhancements
 
 -   Add cross-validation and model diagnostics
--   Expand to white wine data
 -   Create RMarkdown report or Shiny dashboard
 
 ------------------------------------------------------------------------
