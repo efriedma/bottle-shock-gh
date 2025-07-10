@@ -9,6 +9,7 @@ if (!dir.exists(scripts_dir)) dir.create(scripts_dir, recursive = TRUE)
 # Write each R script manually
 writeLines(
   c(
+    "",
     "# 01_data_cleaning.R",
     "# Data import and preparation",
     "",
@@ -30,6 +31,7 @@ writeLines(
 
 writeLines(
   c(
+    "",
     "# 02_pca_analysis.R",
     "# Principal Component Analysis (PCA)",
     "",
@@ -48,6 +50,7 @@ writeLines(
 
 writeLines(
   c(
+    "",
     "# 03_clustering.R",
     "# Clustering Analysis",
     "",
@@ -70,6 +73,7 @@ writeLines(
 
 writeLines(
   c(
+    "",
     "# 04_regression.R",
     "# Multiple Linear Regression",
     "",
